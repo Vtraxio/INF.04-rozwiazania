@@ -4,9 +4,9 @@
 
 System operacyjny: Windows 11 Pro wersja 22H2
 
-Nazwy środowisk programistycznych: PyCharm 2023.1 (Professional Edition); Android Studio Electric Eel | 2022.1.1 Patch 2
+Nazwy środowisk programistycznych: PyCharm 2023.1 (Professional Edition); Android Studio Electric Eel | 2022.1.1 Patch 2; Visual Studio 2022 (17)
 
-Nazwy języków programowania: Python; Java
+Nazwy języków programowania: Python; Java; C++; C#
 
 Emulowane urządzenie / system: Nexus 5 (API 31), Android 12 (Oreo)
 
@@ -14,8 +14,18 @@ Komentarz do wykonanej pracy: brak
 
 ## Aplikacja konsolowa
 
-![konsola1.png](dokumentacja/konsola1.png)
+### Python
+![konsola1(Py).png](dokumentacja/konsola1(Py).png)
 Rysunek 1. Przedstawiony wynik działania aplikacji - wprowadzono kolejne dziesięć elementów tablicy, wyświetlono tablicę po wprowadzeniu oraz po posortowaniu.
+
+### C#
+![konsola1(CS).png](dokumentacja/konsola1(CS).png)
+Rysunek 1. Przedstawiony wynik działania aplikacji - wprowadzono kolejne dziesięć elementów tablicy, wyświetlono tablicę po posortowaniu.
+
+### C++
+![konsola1(CPP).png](dokumentacja/konsola1(CPP).png)
+Rysunek 1. Przedstawiony wynik działania aplikacji - wprowadzono kolejne dziesięć elementów tablicy, wyświetlono tablicę po posortowaniu.
+
 
 ## Aplikacja mobilna
 
