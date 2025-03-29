@@ -12,7 +12,19 @@ Komentarz do wykonanej pracy: W przypadku aplikacji konsolowej nie było wymagan
 
 ## Aplikacja konsolowa
 
-![konsola1.png](dokumentacja/konsola1.png)
+### Python
+
+![konsola1(Py).png](dokumentacja/konsola1(Py).png)
+Rysunek 1. Efekt działania aplikacji - po wprowadzeniu danych.
+
+### C#
+
+![konsola1(Cs).png](dokumentacja/konsola1(Cs).png)
+Rysunek 1. Efekt działania aplikacji - po wprowadzeniu danych.
+
+### C++
+
+![konsola1(Cpp).png](dokumentacja/konsola1(Cpp).png)
 Rysunek 1. Efekt działania aplikacji - po wprowadzeniu danych.
 
 ## Aplikacja desktopowa
