@@ -21,8 +21,20 @@ Języki programowania / frameworki / biblioteki: TypeScript, Angular, React, Boo
 
 ## Aplikacja konsolowa
 
-![mobile1.png](testy/konsola1.png)
+### Python
+
+![mobile1(Py).png](testy/konsola1(Py).png)
 Rysunek 1. Przedstawiono działanie aplikacji konsolowej zgodnie z testem opisanym w częsci III arkusza. Wynik programu widoczny jest w prawej części okna IDE.
+
+### C#
+
+![mobile1(Cs).png](testy/konsola1(Cs).png)
+Rysunek 1. Przedstawiono działanie aplikacji konsolowej zgodnie z testem opisanym w częsci III arkusza. Wynik programu widoczny jest w konsoli.
+
+### C++
+
+![mobile1(Cpp).png](testy/konsola1(Cpp).png)
+Rysunek 1. Przedstawiono działanie aplikacji konsolowej zgodnie z testem opisanym w częsci III arkusza. Wynik programu widoczny jest w konsoli.
 
 ## Aplikacja webowa
 
