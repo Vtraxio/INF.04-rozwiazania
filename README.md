@@ -31,22 +31,27 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                          ❔                                           |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
+| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
+
 
 ### Aplikacja desktopowa
 
 | Symbol arkusza                                  |  C++  |  C#   |  Python  | Java  | <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> TEB BC |
-| ----------------------------------------------- | :---: | :---: | :------: | :---: | :----------------------------------------------------------------------------------: |
-| [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15451)                 |
-| [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                                          ❔                                           |
-| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg) |   ❔   |   ❔   |    ❔     |   ❔   |                                          ❔                                           |
-| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                                          ❔                                           |
+| ----------------------------------------------- | :---: | :---: | :------: | :---: | :-------------------------------------------------------------------------------------: |
+| [INF.04-01-23.01-SG](#zadanie-inf04-01-2301-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15451)                   |
+| [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                                            ❔                                            |
+| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg) |   ❔   |   ❔   |    ❔     |   ❔   |                                            ❔                                            |
+| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg) |   ❔   |   ❔   | ✅ (PyQT) |   ❔   |                                            ❔                                            |
 
 ### Aplikacja webowa (front-end)
 
 | Symbol arkusza                                                                                     | Angular | React | <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> TEB BC |
-| -------------------------------------------------------------------------------------------------- | :-----: | :---: | :----------------------------------------------------------------------------------: |
-| [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)                                                    |    ✅    |   ✅   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15600)                 |
-| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) |    ✅    |   ✅   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15636)                 |
+| -------------------------------------------------------------------------------------------------- | :-----: | :---: | :-------------------------------------------------------------------------------------: |
+| [INF.04-02-22.06-SG](#zadanie-inf04-02-2206-sg)                                                    |    ✅    |   ✅   |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15600)                   |
+| [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd) |    ✅    |   ✅   |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15636)                   |
+| [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                    |    ❔    |   ✅   |                                            ❔                                            |
+
 
 ### Aplikacja webowa (back-end)
 
@@ -55,18 +60,39 @@ Jeszcze nigdy nie było.
 ### Aplikacja mobilna
 
 | Symbol arkusza                                                                                                                                        | Visual Studio | Android Studio | XCode | Visual Studio for Mac | <img src="logo_teb_technikum.png" alt="Logo TEB Technikum" style="height: 1em;"> TEB BC |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :------------: | :---: | :-------------------: | :----------------------------------------------------------------------------------: |
-| [INF.04-informator](#informator)                                                                                                                      |       ❔       |       ✅        |   ❔   |           ❔           |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15448)                 |
-| [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg)                                                    |       ❔       |       ✅        |   ❔   |           ❔           |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15530)                 |
-| [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15450)                 |
-| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)                                                    |       ❔       |       ✅        |   ❔   |           ❔           |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15783)                 |
-| [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15786)                 |
-| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |       ❔       |       ✏️        |   ❔   |           ❔           |                                          ❔                                           |
-| [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |       ❔       |       ✏️        |   ❔   |           ❔           |                                          ❔                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------: | :------------: | :---: | :-------------------: | :-------------------------------------------------------------------------------------: |
+| [INF.04-informator](#informator)                                                                                                                      |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15448)                   |
+| [INF.04-01-21.06-SG](#zadanie-inf04-01-2106-sg) \| [INF.04-01-22.01-SG](#zadanie-inf04-01-2201-sg)                                                    |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15530)                   |
+| [INF.04-01-22.06-SG](#zadanie-inf04-01-2206-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15450)                   |
+| [INF.04-02-23.01-SG](#zadanie-inf04-02-2301-sg) \| [INF.04-01-23.01-SD](#zadanie-inf04-01-2301-sd)                                                    |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15783)                   |
+| [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15786)                   |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
+| [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
 
 ## Według roczników
 
 Od najnowszych do najstarszych, a w ramach danej sesji - po kolei.
+
+### 2025 - styczeń
+
+#### Zadanie INF.04-01-25.01-SG
+
+Wykonaj aplikację **konsolową** oraz **webową** według wskazań.
+
+- Arkusz: [inf_04_2025_01_01_SG_kolor.pdf](_arkusze/2025-01/inf_04_2025_01_01_SG_kolor.pdf)
+- Pliki do zadania: [pliki3.zip](_arkusze/2025-01/pliki3.zip)
+- Zasady oceniania: ⚠️**Oczekiwanie na publikację**⚠️
+- Rozwiązanie: [INF.04-25.01/INF.04-01-25.01-SG](INF.04-25.01/INF.04-01-25.01-SG)
+
+#### Zadanie INF.04-02-25.01-SG
+
+Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
+
+- Arkusz: [inf_04_2025_01_02_SG_kolor.pdf](_arkusze/2025-01/inf_04_2025_01_02_SG_kolor.pdf)
+- Pliki do zadania: [pliki4.zip](_arkusze/2025-01/pliki4.zip)
+- Zasady oceniania: ⚠️**Oczekiwanie na publikację**⚠️
+- Rozwiązanie: ✏️
 
 ### 2024 - czerwiec
 
