@@ -32,7 +32,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                          ❔                                           |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 
 
 ### Aplikacja desktopowa
@@ -68,7 +68,7 @@ Jeszcze nigdy nie było.
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                  [📹](https://www.e-teb.pl/mod/page/view.php?id=15786)                   |
 | [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |       ❔       |       ✏️        |   ❔   |           ❔           |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |       ❔       |       ✅        |   ❔   |           ❔           |                                            ❔                                            |
 
 ## Według roczników
 
@@ -92,7 +92,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 - Arkusz: [inf_04_2025_01_02_SG_kolor.pdf](_arkusze/2025-01/inf_04_2025_01_02_SG_kolor.pdf)
 - Pliki do zadania: [pliki4.zip](_arkusze/2025-01/pliki4.zip)
 - Zasady oceniania: ⚠️**Oczekiwanie na publikację**⚠️
-- Rozwiązanie: ✏️
+- Rozwiązanie: [INF.04-25.01/INF.04-02-25.01-SG](INF.04-25.01/INF.04-02-25.01-SG)
 
 ### 2024 - czerwiec
 
