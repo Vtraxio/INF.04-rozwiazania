@@ -4,18 +4,27 @@
 
 System operacyjny: Windows 11 Pro wersja 22H2
 
-Środowiska programistyczne: PyCharm Professional 2023.1; Android Studio Electric Eel | 2022.1.1
+Środowiska programistyczne: PyCharm Professional 2023.1; Android Studio Electric Eel | 2022.1.1; Visual Studio 2022 (17)
 
 Emulator aplikacji mobilnej: Nexus 5 API 33, Android 12 (Oreo)
 
-Języki programowania: Python; Java
+Języki programowania: Python; Java; C++; C#
 
 Komentarz: brak
 
 ## Aplikacja konsolowa
 
-![konsola1.png](dokumentacja/konsola1.png)
+### Python
+![konsola1(Py).png](dokumentacja/konsola1(Py).png)
 Rysunek 1. Przedstawienie pełnego działania aplikacji: wprowadzono dane i zatwierdzono je, co widać w prawej części okna IDE.
+
+### C#
+![konsola1(CS).png](dokumentacja/konsola1(CS).png)
+Rysunek 1. Przedstawienie pełnego działania aplikacji: wprowadzono dane i zatwierdzono je, co widać w konsoli.
+
+### C++
+![konsola1(CPP).png](dokumentacja/konsola1(CPP).png)
+Rysunek 1. Przedstawienie pełnego działania aplikacji: wprowadzono dane i zatwierdzono je, co widać w konsoli.
 
 ## Aplikacja mobilna
 
