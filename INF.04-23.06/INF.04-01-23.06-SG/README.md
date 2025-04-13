@@ -3,14 +3,27 @@
 ## Informacje o rozwiązaniu
 
 System operacyjny: Windows 11 Pro wersja 22H2
-Nazwy środowisk programistycznych: PyCharm Professional 2023.1.1
-Nazwy języków programowania: Python
+
+Nazwy środowisk programistycznych: PyCharm Professional 2023.1.1; Visual Studio 2022 (17)
+
+Nazwy języków programowania: Python; C++; C#
+
 Komentarz: brak
 
 ## Aplikacja konsolowa
 
-![konsola1.png](dokumentacja/konsola1.png)
+### Python
+![konsola1(Py).png](dokumentacja/konsola1(Py).png)
 Rysunek 1. Działająca aplikacja.
+
+### C#
+![konsola1(CS).png](dokumentacja/konsola1(CS).png)
+Rysunek 1. Działająca aplikacja.
+
+### C++
+![konsola1(CPP).png](dokumentacja/konsola1(CPP).png)
+Rysunek 1. Działająca aplikacja.
+
 
 ## Aplikacja desktopowa
 
