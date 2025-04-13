@@ -4,13 +4,17 @@
 
 System operacyjny: macOS Sequoia 15.3.2
 
-Środowiska programistyczne: PyCharm 2024.2.5 Professional Edition, Qt Designer 5.9.6
+Środowiska programistyczne: PyCharm 2024.2.5 Professional Edition, Qt Designer 5.9.6; Visual Studio 2022 (17)
 
-Języki programowania: Python 3.13
+Języki programowania: Python 3.13; C#
 
 ## Aplikacja konsolowa
 
-![](dokumentacja/konsola1.png)
+### Python
+![](dokumentacja/konsola1(Py).png)
+
+### C#
+![](dokumentacja/konsola1(CS).png)
 
 ## Aplikacja desktopowa
 
