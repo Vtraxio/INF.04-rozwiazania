@@ -121,7 +121,7 @@ Wykonaj aplikację **konsolową** oraz **mobilną** według wskazań.
 
 - Arkusz: [inf_04_2024_06_01_SD.pdf](_arkusze/2024-06/inf_04_2024_06_01_SD.pdf)
 - Zasady oceniania: [INF_04_2024_06_01_SD_zo.pdf](_arkusze/2024-06/INF_04_2024_06_01_SD_zo.pdf)
-- Rozwiązanie: ✏️
+- Rozwiązanie: [INF.04-24.06/INF.04-01-24.06-SD](INF.04-24.06/INF.04-01-24.06-SD)
 
 ### 2024 - styczeń
 
