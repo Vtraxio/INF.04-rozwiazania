@@ -22,6 +22,11 @@ Języki programowania: C++26, Python 3.13, Kotlin
 
 ![](dokumentacja/konsola2py.png)
 
+### C#
+![](dokumentacja/konsola1(CS).png)
+
+![](dokumentacja/konsola2(CS).png)
+
 ## Aplikacja mobilna
 
 ![](dokumentacja/mobile1.png)

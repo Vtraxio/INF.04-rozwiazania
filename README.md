@@ -33,7 +33,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ✅   |   ✅   |   ✏️    |   ✏️   |                                          ❔                                           |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   🚧❗[^2]   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ✅   |   ✅   |   ✏️    |   ✏️   |                                            ❔                                            |
-| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
+| [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                                            ❔                                            |
 
 [^1]: Ze względu na ograniczoną obsługę Unicode w C++, pełna implementacja z polskimi znakami została tymczasowo pominięta. Wymagałaby użycia szerokich znaków (wstring, wcout) oraz dodatkowej konfiguracji.
 
