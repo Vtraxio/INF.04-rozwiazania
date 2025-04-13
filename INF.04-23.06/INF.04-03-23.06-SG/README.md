@@ -4,15 +4,24 @@
 
 System operacyjny: Windows 11 Pro wersja 22H2
 
-Środowiska programistyczne: PyCharm Professional Edition, Visual Studio Code
+Środowiska programistyczne: PyCharm Professional Edition, Visual Studio Code; Visual Studio 2022 (17)
 
-Języki programowania: Python, Angular, React, Bootstrap
+Języki programowania: Python, Angular, React, Bootstrap; C++; C#
 
 Komentarz: brak
 
 ## Aplikacja konsolowa
 
-![konsola1.png](dokumentacja/konsola1.png)
+### Python
+![konsola1(Py).png](dokumentacja/konsola1(Py).png)
+Rysunek 1. Działająca aplikacja konsolowa wraz z przeprowadzonymi testami.
+
+### C#
+![konsola1(CS).png](dokumentacja/konsola1(CS).png)
+Rysunek 1. Działająca aplikacja konsolowa wraz z przeprowadzonymi testami.
+
+### C++
+![konsola1(CPP).png](dokumentacja/konsola1(CPP).png)
 Rysunek 1. Działająca aplikacja konsolowa wraz z przeprowadzonymi testami.
 
 ## Aplikacja webowa
