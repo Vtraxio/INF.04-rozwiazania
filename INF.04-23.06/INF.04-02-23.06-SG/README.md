@@ -6,7 +6,16 @@
 
 Dokumentacja aplikacji konsolowej polegała na zrobieniu jednego zrzutu ekranu - z testu działania aplikacji.
 
-![konsola_testy.jpg](testy/konsola_testy.jpg)
+### Python
+![konsola_testy(Py).jpg](testy/konsola_testy(Py).jpg)
+Rysunek 1. Poprawnie działająca aplikacja konsolowa.
+
+### C#
+![konsola_testy(CS).png](testy/konsola_testy(CS).png)
+Rysunek 1. Poprawnie działająca aplikacja konsolowa.
+
+### C++
+![konsola_testy(CPP).png](testy/konsola_testy(CPP).png)
 Rysunek 1. Poprawnie działająca aplikacja konsolowa.
 
 ## Aplikacja mobilna
