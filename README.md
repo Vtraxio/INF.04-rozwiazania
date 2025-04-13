@@ -27,7 +27,7 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-01-23.06-SG](#zadanie-inf04-01-2306-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15804)                 |
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15784)                 |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd)                                                    |   ✅   |   ✅   |   ✅    |   ✏️   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15635)                 |
-| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
+| [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                          ❔                                           |
 | [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❔   |   ❔   |   ✅    |   ✏️   |                                          ❔                                           |
@@ -131,7 +131,7 @@ Wykonaj aplikację **konsolową** oraz **desktopową** według wskazań.
 - Arkusz: [inf_04_2024_01_01_SG.pdf](_arkusze/2024-01/inf_04_2024_01_01_SG.pdf)
 - Pliki do zadania: [materialy.7z](_arkusze/2024-01/materialy.7z)
 - Zasady oceniania: [INF_04_2024_01_01_SG_zo.pdf](_arkusze/2024-01/INF_04_2024_01_01_SG_zo.pdf)
-- Rozwiązanie: ✏️
+- Rozwiązanie: [INF.04-24.01\INF.04-01-24.01-SG](INF.04-24.01/INF.04-01-24.01-SG)
 
 #### Zadanie INF.04-02-24.01-SG
 
