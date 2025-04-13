@@ -13,6 +13,7 @@ Od najstarszych do najnowszych. Legenda:
 - ✅ - gotowe
 - ✏️ - do zrobienia
 - ❔ - można zrobić, ale nie mamy w planach
+- 🚧❗ - implementacja utrudniona przez właściwości języka, tymczasowo pominięte
 
 ### Aplikacja konsolowa
 
@@ -28,13 +29,15 @@ Od najstarszych do najnowszych. Legenda:
 | [INF.04-02-23.06-SG](#zadanie-inf04-02-2306-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15784)                 |
 | [INF.04-03-23.06-SG](#zadanie-inf04-03-2306-sg) \| [INF.04-01-23.06-SD](#zadanie-inf04-01-2306-sd)                                                    |   ✅   |   ✅   |   ✅    |   ✏️   |                 [📹](https://www.e-teb.pl/mod/page/view.php?id=15635)                 |
 | [INF.04-01-24.01-SG](#zadanie-inf04-01-2401-sg)                                                                                                       |   ✅   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
-| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |   ❌[^1]   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
+| [INF.04-02-24.01-SG](#zadanie-inf04-02-2401-sg) \| [INF.04-01-24.01-SD](#zadanie-inf04-01-2401-sd) \| [INF.04-01-24.06-SD](#zadanie-inf04-01-2406-sd) |   🚧❗[^1]   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-24.06-SG](#zadanie-inf04-01-2406-sg)                                                                                                       |   ✅   |   ✅   |   ✏️    |   ✏️   |                                          ❔                                           |
-| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   ❌[^1]   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
+| [INF.04-02-24.06-SG](#zadanie-inf04-02-2406-sg)                                                                                                       |   🚧❗[^2]   |   ✅   |   ✅    |   ✏️   |                                          ❔                                           |
 | [INF.04-01-25.01-SG](#zadanie-inf04-01-2501-sg)                                                                                                       |   ❔   |   ❔   |   ✏️    |   ✏️   |                                            ❔                                            |
 | [INF.04-02-25.01-SG](#zadanie-inf04-02-2501-sg)                                                                                                       |   ✅   |   ❔   |   ✅    |   ✏️   |                                            ❔                                            |
 
 [^1]: Ze względu na ograniczoną obsługę Unicode w C++, pełna implementacja z polskimi znakami została tymczasowo pominięta. Wymagałaby użycia szerokich znaków (wstring, wcout) oraz dodatkowej konfiguracji.
+
+[^2]: Ze względu na ograniczoną obsługę Unicode w C++, pełna implementacja została tymczasowo pominięta. Wymagałaby użycia szerokich znaków (wstring, wcout), specjalnej obsługi plików oraz dodatkowej konfiguracji.
 
 ### Aplikacja desktopowa
 
