@@ -4,9 +4,9 @@
 
 Nazwa systemu operacyjnego: macOS Sequoia 15.3.2
 
-Środowiska programistyczne: CLion 2024.3.5, PyCharm 2024.2.5 Professional Edition, Android Studio Koala Feature Drop | 2024.1.2
+Środowiska programistyczne: CLion 2024.3.5, PyCharm 2024.2.5 Professional Edition, Android Studio Koala Feature Drop | 2024.1.2, IntelliJ IDEA 2025.1 (Ultimate Edition)
 
-Języki programowania: C++26, Python 3.13, Kotlin
+Języki programowania: C++26, Python 3.13, Kotlin, Java 24
 
 ## Aplikacja konsolowa
 
@@ -26,6 +26,12 @@ Języki programowania: C++26, Python 3.13, Kotlin
 ![](dokumentacja/konsola1(CS).png)
 
 ![](dokumentacja/konsola2(CS).png)
+
+### Java 24
+
+![](dokumentacja/konsola1java.png)
+
+![](dokumentacja/konsola2java.png)
 
 ## Aplikacja mobilna
 
